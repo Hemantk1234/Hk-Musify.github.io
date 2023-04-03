@@ -61,4 +61,4 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 > [Sololearn](https://www.sololearn.com/profile/24572821)
 
 
-I hope you like the project. Thanks for reading :)
+I hope you like the project. Thank you for reading :)
